@@ -77,7 +77,7 @@
         <p class="text-xs text-stone-700 font-bold">Apakah kamu yakin ingin keluar dari CineLog?</p>
         <div class="flex justify-center gap-3 pt-2 text-xs font-black">
             <button id="btn-cancel-logout" class="px-4 py-2 bg-stone-300 text-stone-950 border-2 border-stone-950 rounded-xl shadow-[2px_2px_0px_#000]">Batal</button>
-            <a href="{{ route('login') }}" class="px-4 py-2 bg-red-700 text-white border-2 border-stone-950 rounded-xl shadow-[2px_2px_0px_#000]">Ya, Logout 👋</a>
+            <a href="{{ route('login') }}" class="px-4 py-2 bg-red-700 text-white border-2 border-stone-950 rounded-xl shadow-[2px_2px_0px_#000]">Ya, Logout</a>
         </div>
     </div>
 </div>
